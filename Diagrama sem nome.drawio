@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T12:34:55.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="DPuS_WDeeOXEXS4HzUTO" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T14:58:17.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="mVIqDz75GOh8CzlYhndr" version="21.6.5" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="4990" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5387" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,7 +9,7 @@
             <mxRectangle x="-60" y="240" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CpgEJYqUYKejUzms_IQA-106" value="" style="endArrow=classic;html=1;rounded=0;snapToPoint=1;orthogonal=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="CpgEJYqUYKejUzms_IQA-97" edge="1" target="O-tpeVZjKQFRNbeTzZI2-9">
+        <mxCell id="CpgEJYqUYKejUzms_IQA-106" value="" style="endArrow=classic;html=1;rounded=0;snapToPoint=1;orthogonal=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="CpgEJYqUYKejUzms_IQA-97" target="O-tpeVZjKQFRNbeTzZI2-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1984.1428571428573" y="117.42857142857156" as="sourcePoint" />
             <mxPoint x="2061.5" y="177" as="targetPoint" />
@@ -21,7 +21,7 @@
         <mxCell id="CpgEJYqUYKejUzms_IQA-107" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;What Should we Ask ?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
           <mxGeometry x="1851.5" y="70" width="133" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CpgEJYqUYKejUzms_IQA-109" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="CpgEJYqUYKejUzms_IQA-97" edge="1">
+        <mxCell id="CpgEJYqUYKejUzms_IQA-109" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="CpgEJYqUYKejUzms_IQA-97" edge="1" target="rEXP9riImF9Qnkvs_e8z-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1851.5" y="120" as="sourcePoint" />
             <mxPoint x="1771.5" y="190" as="targetPoint" />
@@ -78,8 +78,8 @@
             <mxPoint x="760" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CpgEJYqUYKejUzms_IQA-121" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio finds Ynês severed hand&lt;br&gt;Ian is missing&lt;br&gt;The Monitor Says 5 remain&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="650" y="780" width="270" height="70" as="geometry" />
+        <mxCell id="CpgEJYqUYKejUzms_IQA-121" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio wakes up with Ynês severed hand&lt;br&gt;Ian is missing&lt;br&gt;The Monitor Says 5 remain&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
+          <mxGeometry x="650" y="780" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-122" value="Puzzle #5" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
           <mxGeometry x="375" y="640" width="130" height="80" as="geometry" />
@@ -96,80 +96,80 @@
             <mxPoint x="440" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CpgEJYqUYKejUzms_IQA-125" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Nobody dies&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="355" y="770" width="170" height="30" as="geometry" />
+        <mxCell id="CpgEJYqUYKejUzms_IQA-125" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Nobody dies. Norberto and Porund seem to bond over the night&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
+          <mxGeometry x="355" y="770" width="170" height="130" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-126" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;The Monitor emits a sound and states &#39;F4A&#39;, the lights blink and a mallet, a vegetable knife and a gun fall from the ceilling container&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="656.5" y="1060" width="280" height="110" as="geometry" />
+          <mxGeometry x="706.5" y="1300" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-127" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOCK #2 - THE GUN&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="1160" y="1195" width="280" height="110" as="geometry" />
+          <mxGeometry x="1210" y="1435" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-129" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;What do you Pick ?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="730" y="1220" width="133" height="60" as="geometry" />
+          <mxGeometry x="780" y="1460" width="133" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-130" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="CpgEJYqUYKejUzms_IQA-97" target="CpgEJYqUYKejUzms_IQA-142" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="1250" as="sourcePoint" />
-            <mxPoint x="650" y="1320" as="targetPoint" />
+            <mxPoint x="780" y="1490" as="sourcePoint" />
+            <mxPoint x="700" y="1560" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="595" y="1250" />
+              <mxPoint x="645" y="1490" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-131" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="CpgEJYqUYKejUzms_IQA-97" source="CpgEJYqUYKejUzms_IQA-129" target="CpgEJYqUYKejUzms_IQA-143" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="830" y="1350" as="sourcePoint" />
-            <mxPoint x="1090" y="1260" as="targetPoint" />
+            <mxPoint x="880" y="1590" as="sourcePoint" />
+            <mxPoint x="1140" y="1500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-132" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="CpgEJYqUYKejUzms_IQA-97" source="CpgEJYqUYKejUzms_IQA-129" target="CpgEJYqUYKejUzms_IQA-141" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="1400" as="sourcePoint" />
-            <mxPoint x="797" y="1400" as="targetPoint" />
+            <mxPoint x="810" y="1640" as="sourcePoint" />
+            <mxPoint x="847" y="1640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-133" value="Mallet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="775" y="1320" width="100" height="30" as="geometry" />
+          <mxGeometry x="825" y="1560" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-134" value="Gun" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="875" y="1210" width="55" height="30" as="geometry" />
+          <mxGeometry x="925" y="1450" width="55" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-139" value="Knife" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="648" y="1210" width="70" height="30" as="geometry" />
+          <mxGeometry x="698" y="1450" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-141" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio struggles with Norberto for the mallet, and gets stabbed by Ian with the Knife&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="710" y="1360" width="180" height="120" as="geometry" />
+          <mxGeometry x="760" y="1600" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-142" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio gets the Knife, Norberto the Mallet and Ian the gun; The 3 have a standoff but eventually calm down&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="505" y="1320" width="180" height="120" as="geometry" />
+          <mxGeometry x="555" y="1560" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-143" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio gets the Gun, Ian rushes to the Knife and Norberto gets the Mallet&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="940" y="1190" width="180" height="120" as="geometry" />
+          <mxGeometry x="990" y="1430" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-144" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio Suspects Tisa, but is worried about Ynês&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
           <mxGeometry x="486.5" y="345" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-145" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;BAD END # 3 - THE STRUGGLER&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="719" y="1514" width="160" height="106" as="geometry" />
+          <mxGeometry x="769" y="1754" width="160" height="106" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-146" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;KEY #3 - THE STRENGHT&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="719" y="1620" width="160" height="106" as="geometry" />
+          <mxGeometry x="769" y="1860" width="160" height="106" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-147" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="CpgEJYqUYKejUzms_IQA-97" source="CpgEJYqUYKejUzms_IQA-141" target="CpgEJYqUYKejUzms_IQA-145" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="980" y="1510" as="sourcePoint" />
-            <mxPoint x="982" y="1590" as="targetPoint" />
+            <mxPoint x="1030" y="1750" as="sourcePoint" />
+            <mxPoint x="1032" y="1830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-148" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="CpgEJYqUYKejUzms_IQA-97" source="CpgEJYqUYKejUzms_IQA-143" target="CpgEJYqUYKejUzms_IQA-127" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1656" y="1428.29" as="sourcePoint" />
-            <mxPoint x="1743" y="1428.29" as="targetPoint" />
+            <mxPoint x="1706" y="1668.29" as="sourcePoint" />
+            <mxPoint x="1793" y="1668.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-149" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio tries to shoot the Gun at Norberto, panicked, but it doesn&#39;t fire. Norberto and Ian retaliate.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="1470" y="1191" width="180" height="120" as="geometry" />
+          <mxGeometry x="1520" y="1431" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-150" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="CpgEJYqUYKejUzms_IQA-97" source="CpgEJYqUYKejUzms_IQA-144" target="CpgEJYqUYKejUzms_IQA-111" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -179,57 +179,90 @@
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-151" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="CpgEJYqUYKejUzms_IQA-97" source="CpgEJYqUYKejUzms_IQA-127" target="CpgEJYqUYKejUzms_IQA-149" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1311" y="1370" as="sourcePoint" />
-            <mxPoint x="1351" y="1370" as="targetPoint" />
+            <mxPoint x="1361" y="1610" as="sourcePoint" />
+            <mxPoint x="1401" y="1610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-152" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;BAD END # 4 - THE SHOT&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="1650" y="1197" width="160" height="106" as="geometry" />
+          <mxGeometry x="1530" y="1551" width="160" height="106" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-153" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="CpgEJYqUYKejUzms_IQA-97" source="CpgEJYqUYKejUzms_IQA-127" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1280" y="1409.52" as="sourcePoint" />
-            <mxPoint x="1300" y="1410" as="targetPoint" />
+            <mxPoint x="1330" y="1649.52" as="sourcePoint" />
+            <mxPoint x="1350" y="1650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-155" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="CpgEJYqUYKejUzms_IQA-97" source="CpgEJYqUYKejUzms_IQA-126" target="CpgEJYqUYKejUzms_IQA-129" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="850" y="1230" as="sourcePoint" />
-            <mxPoint x="840" y="1190" as="targetPoint" />
+            <mxPoint x="900" y="1470" as="sourcePoint" />
+            <mxPoint x="890" y="1430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-156" value="2" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=right;fillColor=#00188D;shape=mxgraph.mscae.enterprise.key_permissions;fontSize=18;fontStyle=1" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="1310" y="1311" width="30" height="57.69" as="geometry" />
+          <mxGeometry x="1360" y="1551" width="30" height="57.69" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-157" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio knows how to use the Gun&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="1210" y="1410" width="180" height="70" as="geometry" />
+          <mxGeometry x="1260" y="1650" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="O-tpeVZjKQFRNbeTzZI2-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Using the weapons, they slowly pry off one of the doors, eventually reching a large hangar-like room&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="CpgEJYqUYKejUzms_IQA-97">
-          <mxGeometry x="500" y="1480" width="190" height="120" as="geometry" />
+        <mxCell id="O-tpeVZjKQFRNbeTzZI2-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Using the weapons, they slowly pry off one of the doors, eventually reching a large hangar-like room&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
+          <mxGeometry x="550" y="1720" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="O-tpeVZjKQFRNbeTzZI2-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOCK #1 - THE RULES&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="CpgEJYqUYKejUzms_IQA-97">
+        <mxCell id="O-tpeVZjKQFRNbeTzZI2-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOCK #1 - THE RULES&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
           <mxGeometry x="2030" y="180" width="202" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="O-tpeVZjKQFRNbeTzZI2-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="CpgEJYqUYKejUzms_IQA-97" source="CpgEJYqUYKejUzms_IQA-107">
+        <mxCell id="O-tpeVZjKQFRNbeTzZI2-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="CpgEJYqUYKejUzms_IQA-97" source="CpgEJYqUYKejUzms_IQA-107" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1940" y="365" as="sourcePoint" />
             <mxPoint x="1918" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O-tpeVZjKQFRNbeTzZI2-58" value="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=right;fillColor=#00188D;shape=mxgraph.mscae.enterprise.key_permissions;fontSize=18;fontStyle=1" vertex="1" parent="CpgEJYqUYKejUzms_IQA-97">
+        <mxCell id="O-tpeVZjKQFRNbeTzZI2-58" value="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=right;fillColor=#00188D;shape=mxgraph.mscae.enterprise.key_permissions;fontSize=18;fontStyle=1" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
           <mxGeometry x="2150" y="297" width="30" height="57.69" as="geometry" />
         </mxCell>
-        <mxCell id="O-tpeVZjKQFRNbeTzZI2-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="CpgEJYqUYKejUzms_IQA-97">
+        <mxCell id="O-tpeVZjKQFRNbeTzZI2-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="CpgEJYqUYKejUzms_IQA-97" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2130.57" y="290" as="sourcePoint" />
             <mxPoint x="2130.57" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O-tpeVZjKQFRNbeTzZI2-66" value="Is there a way for the 9 to survive ? - YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="CpgEJYqUYKejUzms_IQA-97">
+        <mxCell id="O-tpeVZjKQFRNbeTzZI2-66" value="Is there a way for the 9 to survive ? - YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
           <mxGeometry x="1920" y="150" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O-tpeVZjKQFRNbeTzZI2-67" value="Is there a way for the 9 to survive ? - YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="CpgEJYqUYKejUzms_IQA-97">
+        <mxCell id="O-tpeVZjKQFRNbeTzZI2-67" value="Is there a way for the 9 to survive ? - YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
           <mxGeometry x="2191" y="315" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rEXP9riImF9Qnkvs_e8z-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CpgEJYqUYKejUzms_IQA-97" source="CpgEJYqUYKejUzms_IQA-142" target="O-tpeVZjKQFRNbeTzZI2-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="1900" as="sourcePoint" />
+            <mxPoint x="210" y="1990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rEXP9riImF9Qnkvs_e8z-6" value="Can only one Survive ? - NO&lt;br&gt;(Trick Answer - Theres is Never 1 Survivor)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="CpgEJYqUYKejUzms_IQA-97">
+          <mxGeometry x="1600" y="40" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="rEXP9riImF9Qnkvs_e8z-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Punishment - Raquel dies&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="CpgEJYqUYKejUzms_IQA-97">
+          <mxGeometry x="1690" y="320" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rEXP9riImF9Qnkvs_e8z-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="rEXP9riImF9Qnkvs_e8z-11" parent="CpgEJYqUYKejUzms_IQA-97" target="rEXP9riImF9Qnkvs_e8z-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1775" y="180" as="sourcePoint" />
+            <mxPoint x="1680" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rEXP9riImF9Qnkvs_e8z-11" value="Puzzle #1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" vertex="1" parent="CpgEJYqUYKejUzms_IQA-97">
+          <mxGeometry x="1700" y="190" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rEXP9riImF9Qnkvs_e8z-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;What Should we Ask ?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="CpgEJYqUYKejUzms_IQA-97">
+          <mxGeometry x="1690" y="480" width="133" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rEXP9riImF9Qnkvs_e8z-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Punishment - Xis Dies&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="CpgEJYqUYKejUzms_IQA-97">
+          <mxGeometry x="1683" y="630" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rEXP9riImF9Qnkvs_e8z-14" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Who should be killed ?&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="CpgEJYqUYKejUzms_IQA-97">
+          <mxGeometry x="1683" y="805" width="133" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rEXP9riImF9Qnkvs_e8z-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;The monitor shows L7N&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="CpgEJYqUYKejUzms_IQA-97">
+          <mxGeometry x="1619.5" y="720" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5" value="START" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="346" y="10" width="132" height="50" as="geometry" />
@@ -237,7 +270,7 @@
         <mxCell id="CpgEJYqUYKejUzms_IQA-96" value="FARSIGHT" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="413" y="240" width="2967" height="2760" as="geometry" />
         </mxCell>
-        <mxCell id="O-tpeVZjKQFRNbeTzZI2-59" value="" style="endArrow=classic;html=1;rounded=0;snapToPoint=1;orthogonal=1;" edge="1" parent="CpgEJYqUYKejUzms_IQA-96">
+        <mxCell id="O-tpeVZjKQFRNbeTzZI2-59" value="" style="endArrow=classic;html=1;rounded=0;snapToPoint=1;orthogonal=1;" parent="CpgEJYqUYKejUzms_IQA-96" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1279.6428571428573" y="87.42857142857156" as="sourcePoint" />
             <mxPoint x="1357" y="147" as="targetPoint" />
@@ -246,10 +279,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O-tpeVZjKQFRNbeTzZI2-60" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;What Should we Ask ?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="CpgEJYqUYKejUzms_IQA-96">
+        <mxCell id="O-tpeVZjKQFRNbeTzZI2-60" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;What Should we Ask ?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="CpgEJYqUYKejUzms_IQA-96" vertex="1">
           <mxGeometry x="1147" y="40" width="133" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O-tpeVZjKQFRNbeTzZI2-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="CpgEJYqUYKejUzms_IQA-96">
+        <mxCell id="O-tpeVZjKQFRNbeTzZI2-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="CpgEJYqUYKejUzms_IQA-96" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1147" y="90" as="sourcePoint" />
             <mxPoint x="1067" y="160" as="targetPoint" />
@@ -258,16 +291,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O-tpeVZjKQFRNbeTzZI2-62" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOCK #1 - THE RULES&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="CpgEJYqUYKejUzms_IQA-96">
+        <mxCell id="O-tpeVZjKQFRNbeTzZI2-62" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOCK #1 - THE RULES&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="CpgEJYqUYKejUzms_IQA-96" vertex="1">
           <mxGeometry x="1257" y="150" width="202" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="O-tpeVZjKQFRNbeTzZI2-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="CpgEJYqUYKejUzms_IQA-96" source="O-tpeVZjKQFRNbeTzZI2-60">
+        <mxCell id="O-tpeVZjKQFRNbeTzZI2-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="CpgEJYqUYKejUzms_IQA-96" source="O-tpeVZjKQFRNbeTzZI2-60" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1235.5" y="335" as="sourcePoint" />
             <mxPoint x="1214" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O-tpeVZjKQFRNbeTzZI2-64" value="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=right;fillColor=#00188D;shape=mxgraph.mscae.enterprise.key_permissions;fontSize=18;fontStyle=1" vertex="1" parent="CpgEJYqUYKejUzms_IQA-96">
+        <mxCell id="O-tpeVZjKQFRNbeTzZI2-64" value="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=right;fillColor=#00188D;shape=mxgraph.mscae.enterprise.key_permissions;fontSize=18;fontStyle=1" parent="CpgEJYqUYKejUzms_IQA-96" vertex="1">
           <mxGeometry x="1367" y="270" width="30" height="57.69" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-98" value="TUTORIAL" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" parent="1" vertex="1">
