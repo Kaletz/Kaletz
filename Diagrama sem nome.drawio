@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T17:03:37.165Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="ZrYP8Msn-h9XrlQBTnL1" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T17:11:31.322Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="5rnEohvtwXu-4e214knV" version="21.6.9" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="4976" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5367" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,73 +31,73 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-111" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Who shall be my Partner ?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="1375" y="1265" width="133" height="60" as="geometry" />
+          <mxGeometry x="1375" y="1325" width="133" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-112" value="" style="endArrow=classic;html=1;rounded=0;snapToPoint=1;orthogonal=1;" parent="CpgEJYqUYKejUzms_IQA-97" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1508.0028571428575" y="1295.4285714285716" as="sourcePoint" />
-            <mxPoint x="1585.3600000000001" y="1355" as="targetPoint" />
+            <mxPoint x="1508.0028571428575" y="1355.4285714285716" as="sourcePoint" />
+            <mxPoint x="1585.3600000000001" y="1415" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1585.3600000000001" y="1295" />
+              <mxPoint x="1585.3600000000001" y="1355" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-110" value="Ynês" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="1515" y="1265" width="100" height="30" as="geometry" />
+          <mxGeometry x="1515" y="1325" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-113" value="Tisa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="1275" y="1265" width="100" height="30" as="geometry" />
+          <mxGeometry x="1275" y="1325" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-114" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="CpgEJYqUYKejUzms_IQA-97" target="CpgEJYqUYKejUzms_IQA-116" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1375" y="1295" as="sourcePoint" />
-            <mxPoint x="1295" y="1365" as="targetPoint" />
+            <mxPoint x="1375" y="1355" as="sourcePoint" />
+            <mxPoint x="1295" y="1425" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1275" y="1295" />
+              <mxPoint x="1275" y="1355" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-115" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio + Ynês&lt;br&gt;Norberto + Ian&lt;br&gt;Tisa + Porund&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="1515" y="1355" width="140" height="70" as="geometry" />
+          <mxGeometry x="1515" y="1415" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-116" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio + Tisa&lt;br&gt;Ynês+ Ian&lt;br&gt;Norberto + Porund&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="1190" y="1345" width="170" height="70" as="geometry" />
+          <mxGeometry x="1190" y="1405" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-117" value="Puzzle #6" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="1520" y="1445" width="130" height="80" as="geometry" />
+          <mxGeometry x="1520" y="1505" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-118" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="CpgEJYqUYKejUzms_IQA-97" source="CpgEJYqUYKejUzms_IQA-115" target="CpgEJYqUYKejUzms_IQA-117" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1819" y="1245" as="sourcePoint" />
-            <mxPoint x="1805" y="1399" as="targetPoint" />
+            <mxPoint x="1819" y="1305" as="sourcePoint" />
+            <mxPoint x="1805" y="1459" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-120" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="CpgEJYqUYKejUzms_IQA-97" source="CpgEJYqUYKejUzms_IQA-117" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1595" y="1435" as="sourcePoint" />
-            <mxPoint x="1585" y="1575" as="targetPoint" />
+            <mxPoint x="1595" y="1495" as="sourcePoint" />
+            <mxPoint x="1585" y="1635" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-121" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio wakes up with Ynês severed hand&lt;br&gt;Ian is missing&lt;br&gt;The Monitor Says 5 remain&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="1475" y="1575" width="320" height="100" as="geometry" />
+          <mxGeometry x="1475" y="1635" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-122" value="Puzzle #5" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="1200" y="1435" width="130" height="80" as="geometry" />
+          <mxGeometry x="1200" y="1495" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-123" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="CpgEJYqUYKejUzms_IQA-97" target="CpgEJYqUYKejUzms_IQA-122" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1265" y="1415" as="sourcePoint" />
-            <mxPoint x="1485" y="1389" as="targetPoint" />
+            <mxPoint x="1265" y="1475" as="sourcePoint" />
+            <mxPoint x="1485" y="1449" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-124" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="CpgEJYqUYKejUzms_IQA-97" source="CpgEJYqUYKejUzms_IQA-122" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1275" y="1425" as="sourcePoint" />
-            <mxPoint x="1265" y="1565" as="targetPoint" />
+            <mxPoint x="1275" y="1485" as="sourcePoint" />
+            <mxPoint x="1265" y="1625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-125" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Nobody dies. Norberto and Porund seem to bond over the night&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="1180" y="1565" width="170" height="130" as="geometry" />
+          <mxGeometry x="1180" y="1625" width="170" height="130" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-126" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;The Monitor emits a sound and states &#39;F4A&#39;, the lights blink and a mallet, a vegetable knife and a gun fall from the ceilling container&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
           <mxGeometry x="721.5" y="1810" width="280" height="110" as="geometry" />
@@ -148,7 +148,7 @@
           <mxGeometry x="1005" y="1940" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-144" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio Suspects Tisa, but is worried about Ynês&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="1311.5" y="1140" width="260" height="80" as="geometry" />
+          <mxGeometry x="1311.5" y="1200" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-145" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;BAD END # 3 - THE STRUGGLER&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
           <mxGeometry x="784" y="2264" width="160" height="106" as="geometry" />
@@ -173,8 +173,8 @@
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-150" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="CpgEJYqUYKejUzms_IQA-97" source="CpgEJYqUYKejUzms_IQA-144" target="CpgEJYqUYKejUzms_IQA-111" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1805" y="1315" as="sourcePoint" />
-            <mxPoint x="1805" y="1365" as="targetPoint" />
+            <mxPoint x="1805" y="1375" as="sourcePoint" />
+            <mxPoint x="1805" y="1425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-151" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="CpgEJYqUYKejUzms_IQA-97" source="CpgEJYqUYKejUzms_IQA-127" target="CpgEJYqUYKejUzms_IQA-149" edge="1">
@@ -228,7 +228,7 @@
         <mxCell id="O-tpeVZjKQFRNbeTzZI2-66" value="Is there a way for the 9 to survive ? - YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
           <mxGeometry x="1920" y="150" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O-tpeVZjKQFRNbeTzZI2-67" value="Is there a way for the 9 to survive ? - YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
+        <mxCell id="O-tpeVZjKQFRNbeTzZI2-67" value="???" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
           <mxGeometry x="2191" y="315" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rEXP9riImF9Qnkvs_e8z-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="CpgEJYqUYKejUzms_IQA-97" source="CpgEJYqUYKejUzms_IQA-142" target="O-tpeVZjKQFRNbeTzZI2-5" edge="1">
@@ -306,6 +306,24 @@
         <mxCell id="-gMSrIDQA9UIPFFdvpcl-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio is able to convince almost everyone to vote on Pluto, with Tisa on the defensive&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
           <mxGeometry x="1485" y="890" width="205" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-7" value="Puzzle #" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" vertex="1" parent="CpgEJYqUYKejUzms_IQA-97">
+          <mxGeometry x="1870" y="300" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Punishment - Pluto Dies&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="CpgEJYqUYKejUzms_IQA-97">
+          <mxGeometry x="1505" y="980" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Punishment - Tisa Dies&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="CpgEJYqUYKejUzms_IQA-97">
+          <mxGeometry x="1842.5" y="980" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;A military grade platform can only be operated by one of them staying behind. A vote is quickly cut off by Norberto shoving/throwing both to the platform and staying behind, with the 3 saying a brief goodbye&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="CpgEJYqUYKejUzms_IQA-97">
+          <mxGeometry x="330" y="2440" width="391.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CpgEJYqUYKejUzms_IQA-97" source="O-tpeVZjKQFRNbeTzZI2-5" target="x8JGwaPrbHJTbHLdMTGF-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="2460" as="sourcePoint" />
+            <mxPoint x="790" y="2410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5" value="START" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="346" y="10" width="132" height="50" as="geometry" />
         </mxCell>
@@ -346,10 +364,13 @@
           <mxGeometry x="1377" y="270" width="30" height="57.69" as="geometry" />
         </mxCell>
         <mxCell id="-gMSrIDQA9UIPFFdvpcl-6" value="Who is behind all this ? - The answer is not given and the next puzzle can be skipped" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="CpgEJYqUYKejUzms_IQA-96" vertex="1">
-          <mxGeometry x="1418" y="288" width="160" height="30" as="geometry" />
+          <mxGeometry x="1418" y="270" width="242" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="x8JGwaPrbHJTbHLdMTGF-5" value="Is any player involved with orchestring this ? - Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="CpgEJYqUYKejUzms_IQA-96">
-          <mxGeometry x="857" y="60" width="160" height="180" as="geometry" />
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-5" value="Is any player involved with orchestrating this ? - Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="CpgEJYqUYKejUzms_IQA-96">
+          <mxGeometry x="897" y="20" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-6" value="Is there any punishment for killing each other ? - No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="CpgEJYqUYKejUzms_IQA-96">
+          <mxGeometry x="1057" y="70" width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-98" value="TUTORIAL" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="348" y="140" width="130" height="80" as="geometry" />
