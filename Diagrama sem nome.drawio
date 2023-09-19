@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-19T18:23:35.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="KMfm_-bwUEbPl74MQne9" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-19T18:38:13.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="EDJFY5vRicrZcZRkup5h" version="21.7.5" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="5440" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -720,7 +720,7 @@
         <mxCell id="_RkWOCpiueimEbIkTTI5-96" value="Puzzle #" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1170" y="3650" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_RkWOCpiueimEbIkTTI5-97" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;During the Puzzle, Porund dies suddenly coughing blood, and Tisa sees that she is trans and has had brain anneurism and a stroke.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="_RkWOCpiueimEbIkTTI5-97" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;During the Puzzle, Porund dies suddenly coughing blood, and Tisa sees that she has had brain anneurism and a stroke.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1056" y="3740" width="390" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-98" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;KEY # - THE PAIN&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
@@ -816,8 +816,11 @@
         <mxCell id="_RkWOCpiueimEbIkTTI5-122" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio furiously asks what happened to the girls and for the Mastermind to show himself. The voice keeps going on saying that he deserves a better explanation before anything else.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="938" y="4700" width="230" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="_RkWOCpiueimEbIkTTI5-123" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;The voice explains that everyone who was punished was for a reason, and that Ennio should rejoice for making the right choices to reach this, even if they were &#39;Nos&#39;, and jokes about Nono (Norberto)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="935" y="4940" width="230" height="230" as="geometry" />
+        <mxCell id="_RkWOCpiueimEbIkTTI5-123" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;The voice explains that everyone who was punished was for a reason, and that Ennio should rejoice for making the right choices to reach this, even if they were &#39;Nos&#39;, and jokes about Nono (Norberto). Ennio gets furious and repeatly tries to shoot the equipment around him&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="935" y="4940" width="230" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="_RkWOCpiueimEbIkTTI5-124" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;The voice explains that everyone who was punished was for a reason, and that Ennio should rejoice for making the right choices to reach this, even if they were &#39;Nos&#39;, and jokes about Nono (Norberto). Ennio gets furious and repeatly tries to shoot the equipment around him.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="940" y="5250" width="230" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
