@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-19T14:12:09.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="-5U7nLyq4Q3JzDovECH5" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-19T14:25:47.734Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="utiTsptVVK1F6ruO2GIs" version="21.7.5" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="5440" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5559" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -387,142 +387,17 @@
         <mxCell id="CpgEJYqUYKejUzms_IQA-96" value="FARSIGHT" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="413" y="240" width="4007" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="O-tpeVZjKQFRNbeTzZI2-59" value="" style="endArrow=classic;html=1;rounded=0;snapToPoint=1;orthogonal=1;" parent="CpgEJYqUYKejUzms_IQA-96" edge="1">
+        <mxCell id="O-tpeVZjKQFRNbeTzZI2-59" value="" style="endArrow=classic;html=1;rounded=0;snapToPoint=1;orthogonal=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="CpgEJYqUYKejUzms_IQA-96" edge="1" target="O-tpeVZjKQFRNbeTzZI2-62">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1279.6428571428573" y="87.42857142857156" as="sourcePoint" />
             <mxPoint x="1357" y="147" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1357" y="87" />
+              <mxPoint x="1628" y="87" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="O-tpeVZjKQFRNbeTzZI2-60" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;What Should we Ask ?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="CpgEJYqUYKejUzms_IQA-96" vertex="1">
           <mxGeometry x="1147" y="40" width="133" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="O-tpeVZjKQFRNbeTzZI2-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="CpgEJYqUYKejUzms_IQA-96" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1147" y="90" as="sourcePoint" />
-            <mxPoint x="1067" y="160" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1067" y="90" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="O-tpeVZjKQFRNbeTzZI2-62" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOCK #1 - THE RULES&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="CpgEJYqUYKejUzms_IQA-96" vertex="1">
-          <mxGeometry x="1257" y="150" width="202" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="O-tpeVZjKQFRNbeTzZI2-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="CpgEJYqUYKejUzms_IQA-96" source="O-tpeVZjKQFRNbeTzZI2-60" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1235.5" y="335" as="sourcePoint" />
-            <mxPoint x="1214" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-gMSrIDQA9UIPFFdvpcl-5" value="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=right;fillColor=#00188D;shape=mxgraph.mscae.enterprise.key_permissions;fontSize=18;fontStyle=1" parent="CpgEJYqUYKejUzms_IQA-96" vertex="1">
-          <mxGeometry x="1377" y="270" width="30" height="57.69" as="geometry" />
-        </mxCell>
-        <mxCell id="-gMSrIDQA9UIPFFdvpcl-6" value="Who is behind all this ? - The answer is not given and the next puzzle can be skipped" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="CpgEJYqUYKejUzms_IQA-96" vertex="1">
-          <mxGeometry x="1418" y="270" width="242" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="x8JGwaPrbHJTbHLdMTGF-5" value="Is any player involved with orchestrating this ? - Yes (every one directly or not)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="CpgEJYqUYKejUzms_IQA-96" vertex="1">
-          <mxGeometry x="897" y="20" width="160" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="x8JGwaPrbHJTbHLdMTGF-6" value="Is there any punishment for killing each other ? - No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="CpgEJYqUYKejUzms_IQA-96" vertex="1">
-          <mxGeometry x="1057" y="70" width="160" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="x8JGwaPrbHJTbHLdMTGF-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Punishment - Ynes dies&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="CpgEJYqUYKejUzms_IQA-96" vertex="1">
-          <mxGeometry x="1007" y="550" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="x8JGwaPrbHJTbHLdMTGF-26" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Who should be killed ?&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="CpgEJYqUYKejUzms_IQA-96" vertex="1">
-          <mxGeometry x="1005" y="745" width="133" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="x8JGwaPrbHJTbHLdMTGF-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;The monitor shows L8T (Late Tonight)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CpgEJYqUYKejUzms_IQA-96" vertex="1">
-          <mxGeometry x="941.5" y="660" width="260" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="x8JGwaPrbHJTbHLdMTGF-28" value="" style="endArrow=classic;html=1;rounded=0;snapToPoint=1;orthogonal=1;" parent="CpgEJYqUYKejUzms_IQA-96" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1141.5028571428575" y="780.4285714285716" as="sourcePoint" />
-            <mxPoint x="1218.8600000000006" y="840" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1218.8600000000006" y="780" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x8JGwaPrbHJTbHLdMTGF-29" value="Rachel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="CpgEJYqUYKejUzms_IQA-96" vertex="1">
-          <mxGeometry x="1141.5" y="750" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="x8JGwaPrbHJTbHLdMTGF-30" value="Norberto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="CpgEJYqUYKejUzms_IQA-96" vertex="1">
-          <mxGeometry x="901.5" y="750" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="x8JGwaPrbHJTbHLdMTGF-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="CpgEJYqUYKejUzms_IQA-96" edge="1" target="x8JGwaPrbHJTbHLdMTGF-33">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1001.5" y="780" as="sourcePoint" />
-            <mxPoint x="901.5" y="830" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="901.5" y="780" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x8JGwaPrbHJTbHLdMTGF-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;The votes eventually tie, and nobody is convinced to change the vote as instructed. Two random people are selected to die&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CpgEJYqUYKejUzms_IQA-96" vertex="1">
-          <mxGeometry x="1132" y="840" width="328" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="x8JGwaPrbHJTbHLdMTGF-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Punishment - Ian and Norberto Die&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="CpgEJYqUYKejUzms_IQA-96" vertex="1">
-          <mxGeometry x="1241.5" y="960" width="118.5" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="x8JGwaPrbHJTbHLdMTGF-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="CpgEJYqUYKejUzms_IQA-96" source="x8JGwaPrbHJTbHLdMTGF-32" target="x8JGwaPrbHJTbHLdMTGF-35" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1197" y="1050" as="sourcePoint" />
-            <mxPoint x="1247" y="1000" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x8JGwaPrbHJTbHLdMTGF-37" value="Puzzle #A" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" parent="CpgEJYqUYKejUzms_IQA-96" vertex="1">
-          <mxGeometry x="1235.75" y="1180" width="130" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="x8JGwaPrbHJTbHLdMTGF-38" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio - Porund - Pluto - Tisa&lt;br&gt;Rachel - Xis remain, but still together&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CpgEJYqUYKejUzms_IQA-96" vertex="1">
-          <mxGeometry x="1147" y="1060" width="328" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="x8JGwaPrbHJTbHLdMTGF-39" value="" style="endArrow=classic;html=1;rounded=0;snapToPoint=1;orthogonal=1;" parent="CpgEJYqUYKejUzms_IQA-96" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1371.6428571428573" y="1357.4285714285716" as="sourcePoint" />
-            <mxPoint x="1449" y="1417" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1449" y="1357" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x8JGwaPrbHJTbHLdMTGF-40" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Who should be my partner ? - Every choice counts&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="CpgEJYqUYKejUzms_IQA-96" vertex="1">
-          <mxGeometry x="1230" y="1290" width="142" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="x8JGwaPrbHJTbHLdMTGF-41" value="Rachel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="CpgEJYqUYKejUzms_IQA-96" vertex="1">
-          <mxGeometry x="1377" y="1310" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="x8JGwaPrbHJTbHLdMTGF-42" value="Pluto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="CpgEJYqUYKejUzms_IQA-96" vertex="1">
-          <mxGeometry x="1117" y="1310" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="x8JGwaPrbHJTbHLdMTGF-43" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOCK #6 - HER CRIMES&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="CpgEJYqUYKejUzms_IQA-96" vertex="1">
-          <mxGeometry x="1337" y="1420" width="280" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="x8JGwaPrbHJTbHLdMTGF-73" value="" style="endArrow=classic;html=1;rounded=0;snapToPoint=1;orthogonal=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="CpgEJYqUYKejUzms_IQA-96" source="x8JGwaPrbHJTbHLdMTGF-40" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1017.0028571428574" y="1390.4285714285716" as="sourcePoint" />
-            <mxPoint x="1117" y="1410" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1117" y="1340" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x8JGwaPrbHJTbHLdMTGF-74" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOCK #9 - HIS WORRIES&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="CpgEJYqUYKejUzms_IQA-96" vertex="1">
-          <mxGeometry x="977" y="1410" width="280" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="x8JGwaPrbHJTbHLdMTGF-80" value="Oversight" style="swimlane;whiteSpace=wrap;html=1;" parent="CpgEJYqUYKejUzms_IQA-96" vertex="1">
-          <mxGeometry x="1327" y="1395" width="633" height="35" as="geometry">
-            <mxRectangle x="1327" y="1395" width="140" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_RkWOCpiueimEbIkTTI5-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio Conforts Pluto about his problems and reveals his ability to him, cofiding that they both can escape if things are done to find the culprit&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="CpgEJYqUYKejUzms_IQA-96">
-          <mxGeometry x="941.5" y="1645" width="328" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_RkWOCpiueimEbIkTTI5-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Eniio + Pluto&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="CpgEJYqUYKejUzms_IQA-96">
-          <mxGeometry x="1057" y="1550" width="118.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CpgEJYqUYKejUzms_IQA-98" value="TUTORIAL" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="348" y="140" width="130" height="80" as="geometry" />
@@ -564,22 +439,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;PORUND END -&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="690" width="160" height="106" as="geometry" />
+          <mxGeometry x="2300" y="492" width="160" height="106" as="geometry" />
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Punishment - Pluto dies&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-1800" y="900" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="x8JGwaPrbHJTbHLdMTGF-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Punishment - Tisa Dies&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-1985.5" y="1230" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="_RkWOCpiueimEbIkTTI5-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;RACHEL END - AND PUNISHMENT&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1830" y="1960" width="160" height="106" as="geometry" />
-        </mxCell>
-        <mxCell id="_RkWOCpiueimEbIkTTI5-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio reveals to Rachel he knows about her crimes, and promises to overlook it if she helps him figure out the Mastermind&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="1855" width="328" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_RkWOCpiueimEbIkTTI5-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Eniio + Rachel&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="1780" width="118.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="x8JGwaPrbHJTbHLdMTGF-83" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio confronts Ian about the strike team and he reveals that he is spy for GIVE BABBLE HERE&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-1900" y="3100" width="400" height="127" as="geometry" />
@@ -589,15 +455,6 @@
         </mxCell>
         <mxCell id="x8JGwaPrbHJTbHLdMTGF-78" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio uses the gun on the giant I on the wall, revealling a cell containing Tisa. She tells them that Ynês and Ian put her there during the night. Norberto quickly pins down Ian as he confesses that he did it suspecting Tisa, but he didn&#39;t do anything to Ynes after they parted ways&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-1892" y="2780" width="400" height="127" as="geometry" />
-        </mxCell>
-        <mxCell id="_RkWOCpiueimEbIkTTI5-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;KEY #6 - HER CRIMES&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="2040" width="160" height="106" as="geometry" />
-        </mxCell>
-        <mxCell id="_RkWOCpiueimEbIkTTI5-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;PLUTO END - OUT OF THE SYSTEM&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1830" y="2100" width="160" height="106" as="geometry" />
-        </mxCell>
-        <mxCell id="_RkWOCpiueimEbIkTTI5-21" value="Puzzle #" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1060" y="1650" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-22" value="Unsighted" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1450" y="580" width="250" height="35" as="geometry">
@@ -658,26 +515,210 @@
         <mxCell id="_RkWOCpiueimEbIkTTI5-37" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOCK #3 - THE STRENGHT&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-1574" y="1200" width="202" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="_RkWOCpiueimEbIkTTI5-38" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio also knows that he can&#39;t let the system get to 7 people, so he plans to&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="_RkWOCpiueimEbIkTTI5-38" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio also knows that he can&#39;t let the system stay on 7 or 8 , so he plans to get to 6, by killed two others&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-1587" y="1430" width="215" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="_RkWOCpiueimEbIkTTI5-73" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ynes reprimands Ennio, showing him that he could ask a similar question and get a &#39;Yes&#39;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="475" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Punishment - Ynes dies&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1560" y="670" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-26" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Who should be killed ?&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1558" y="865" width="133" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;The monitor shows L8T (Late Tonight)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1494.5" y="780" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-28" value="" style="endArrow=classic;html=1;rounded=0;snapToPoint=1;orthogonal=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1694.5028571428575" y="900.4285714285716" as="sourcePoint" />
+            <mxPoint x="1771.8600000000006" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1771.8600000000006" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-29" value="Rachel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="1694.5" y="870" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-30" value="Norberto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="1454.5" y="870" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="x8JGwaPrbHJTbHLdMTGF-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1554.5" y="900" as="sourcePoint" />
+            <mxPoint x="1454.5" y="950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1454.5" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;The votes eventually tie, and nobody is convinced to change the vote as instructed. Two random people are selected to die&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1685" y="960" width="328" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Punishment - Ian and Norberto Die&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1794.5" y="1080" width="118.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="x8JGwaPrbHJTbHLdMTGF-32" target="x8JGwaPrbHJTbHLdMTGF-35" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1750" y="1170" as="sourcePoint" />
+            <mxPoint x="1800" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-37" value="Puzzle #A" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1788.75" y="1300" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-38" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio - Porund - Pluto - Tisa&lt;br&gt;Rachel - Xis remain, but still together&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1700" y="1180" width="328" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-39" value="" style="endArrow=classic;html=1;rounded=0;snapToPoint=1;orthogonal=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1924.6428571428573" y="1477.4285714285716" as="sourcePoint" />
+            <mxPoint x="2002" y="1537" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2002" y="1477" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-40" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Who should be my partner ? - Every choice counts&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1783" y="1410" width="142" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-41" value="Rachel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="1930" y="1430" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-42" value="Pluto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="1670" y="1430" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-43" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOCK #6 - HER CRIMES&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="1890" y="1540" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-73" value="" style="endArrow=classic;html=1;rounded=0;snapToPoint=1;orthogonal=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="x8JGwaPrbHJTbHLdMTGF-40" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1570.0028571428575" y="1510.4285714285716" as="sourcePoint" />
+            <mxPoint x="1670" y="1530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1670" y="1460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-74" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOCK #9 - HIS WORRIES&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="1530" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-80" value="Oversight" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1880" y="1515" width="633" height="35" as="geometry">
+            <mxRectangle x="1327" y="1395" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_RkWOCpiueimEbIkTTI5-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio Conforts Pluto about his problems and reveals his ability to him, cofiding that they both can escape if things are done to find the culprit&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1494.5" y="1765" width="328" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="_RkWOCpiueimEbIkTTI5-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Eniio + Pluto&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="1670" width="118.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_RkWOCpiueimEbIkTTI5-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;RACHEL END - AND PUNISHMENT&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="1840" width="160" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="_RkWOCpiueimEbIkTTI5-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio reveals to Rachel he knows about her crimes, and promises to overlook it if she helps him figure out the Mastermind&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="1735" width="328" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_RkWOCpiueimEbIkTTI5-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Eniio + Rachel&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="1660" width="118.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_RkWOCpiueimEbIkTTI5-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;KEY #6 - HER CRIMES&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1185" y="1910" width="160" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="_RkWOCpiueimEbIkTTI5-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;PLUTO END - OUT OF THE SYSTEM&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="1980" width="160" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="_RkWOCpiueimEbIkTTI5-21" value="Puzzle #" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1530" width="130" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-39" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Rachel used to be intern for a movie company, but when a producer tried to abuse a (Male) friend of hers, she accidently killed him with a prop gun. Choosing to go for the full accident angle, she was sentenced for jail for 4 years. After she slept in the prison bus going out of the facility, she woke up in the Confine&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="970" y="1850" width="362" height="180" as="geometry" />
+          <mxGeometry x="1084" y="1700" width="362" height="180" as="geometry" />
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;KEY #9 - HIS WORRIES&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="1054" y="1540" width="160" height="106" as="geometry" />
+          <mxGeometry x="1194" y="1420" width="160" height="106" as="geometry" />
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Pluto breaks down and cries telling Rachel and Ennio how his life has always been laid out to him and how he hates that nothing he does ever amounts to anything - which worries the way his daughter (Trans) views him at the moment&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="970" y="1360" width="325" height="170" as="geometry" />
+          <mxGeometry x="1110" y="1240" width="325" height="170" as="geometry" />
         </mxCell>
         <mxCell id="x8JGwaPrbHJTbHLdMTGF-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio struggles with the idea of killing the oldest one, but Pluto and Tisa come and give him some confidence, and eventually Norberto votes on himself&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="1070" width="322" height="90" as="geometry" />
+          <mxGeometry x="1140" y="950" width="322" height="90" as="geometry" />
         </mxCell>
         <mxCell id="x8JGwaPrbHJTbHLdMTGF-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Punishment - Norberto Dies&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="1180" width="140" height="70" as="geometry" />
+          <mxGeometry x="1220" y="1060" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="x8JGwaPrbHJTbHLdMTGF-75" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;The last vote divides the group in two:&lt;br&gt;Ennio - Pluto - Tisa - Rachel&lt;br&gt;Ian&amp;nbsp; - Xis - Porund&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="970" y="1260" width="328" height="80" as="geometry" />
+          <mxGeometry x="1110" y="1140" width="328" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_RkWOCpiueimEbIkTTI5-72" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;After the puzzle, Rachel calls Tisa and asks to go to the bathroom. Ennio knows that it&#39;s possible to overhear the conversation on the male bathroom and goes there&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1620" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-5" value="Is any player involved with orchestrating this ? - Yes (every one directly or not)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="490" y="290" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-6" value="Is there any punishment for killing each other ? - No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="1435" y="310" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="O-tpeVZjKQFRNbeTzZI2-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" source="O-tpeVZjKQFRNbeTzZI2-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="350" as="sourcePoint" />
+            <mxPoint x="660" y="408" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="338" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-tpeVZjKQFRNbeTzZI2-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O-tpeVZjKQFRNbeTzZI2-60" edge="1" target="_RkWOCpiueimEbIkTTI5-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1648.5" y="575" as="sourcePoint" />
+            <mxPoint x="1627" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-tpeVZjKQFRNbeTzZI2-62" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOCK #1 - THE RULES&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="1940" y="390" width="202" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_RkWOCpiueimEbIkTTI5-74" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1925" y="650" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="-gMSrIDQA9UIPFFdvpcl-6" value="Who is behind all this ? - The answer is not given and the next puzzle can be skipped" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="360" width="242" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="_RkWOCpiueimEbIkTTI5-76" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Rachel used to be intern for a movie company, but when a producer tried to abuse a (Male) friend of hers, she accidently killed him with a prop gun. Choosing to go for the full accident angle, she was sentenced for jail for 4 years. After she slept in the prison bus going out of the facility, she woke up in the Confine&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1084" y="2030" width="362" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_RkWOCpiueimEbIkTTI5-77" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Being anxious of what he knows Ian can do, Ennio plans to ambush him, but is eventually cornered by Xis and Norberto, who were asked by him. The 3 question and tie Ennio and make him play by their hand. Ian, Norberto and Xis, now knows how to use the Erase Gun&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-1260" y="1210" width="360" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_RkWOCpiueimEbIkTTI5-78" value="Hindsighted" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1224" y="1385" width="250" height="35" as="geometry">
+            <mxRectangle x="1327" y="1395" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_RkWOCpiueimEbIkTTI5-79" value="Puzzle # - Automatically done" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1164" y="1433" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_RkWOCpiueimEbIkTTI5-80" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Who should I kill ?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1539.5" y="1565" width="133" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_RkWOCpiueimEbIkTTI5-81" value="" style="endArrow=classic;html=1;rounded=0;snapToPoint=1;orthogonal=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1406.5" y="1600" as="sourcePoint" />
+            <mxPoint x="-1328.8199999999997" y="1660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1328.8199999999997" y="1600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_RkWOCpiueimEbIkTTI5-82" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1539.5" y="1600" as="sourcePoint" />
+            <mxPoint x="-1646.1799999999998" y="1650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1646.1799999999998" y="1600" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
