@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-19T19:28:14.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="GjbsF-KzYdjJ1xYEcO50" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-19T19:55:00.817Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="5hr7n8Msh9IDM4gatkqg" version="21.7.5" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="5440" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -324,9 +324,6 @@
         <mxCell id="x8JGwaPrbHJTbHLdMTGF-79" value="Nono/Ian" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
           <mxGeometry x="2251" y="2108" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x8JGwaPrbHJTbHLdMTGF-84" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;KEY #7 - THE ARCHITECT&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="CpgEJYqUYKejUzms_IQA-97" vertex="1">
-          <mxGeometry x="2051" y="3047" width="160" height="106" as="geometry" />
-        </mxCell>
         <mxCell id="5" value="START" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="346" y="10" width="132" height="50" as="geometry" />
         </mxCell>
@@ -393,7 +390,7 @@
         <mxCell id="x8JGwaPrbHJTbHLdMTGF-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Punishment - Tisa Dies&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-1985.5" y="1230" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="x8JGwaPrbHJTbHLdMTGF-83" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio confronts Ian about the strike team and he reveals that he tried to escape with Ynes on the hatch, but she&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-83" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio confronts Ian about &#39;the team&#39; and he reveals part of the story and the ordeal, making Norberto and Tisa flabbergasted with the story. He also reveals that he severed Ynes&#39; hand to use it in the print reader on the hatch, bit that she managed to escape.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-1900" y="3100" width="400" height="127" as="geometry" />
         </mxCell>
         <mxCell id="x8JGwaPrbHJTbHLdMTGF-82" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOCK # - THE TEAM&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
@@ -828,8 +825,8 @@
         <mxCell id="_RkWOCpiueimEbIkTTI5-131" value="Puzzle #" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1324.5" y="4510" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_RkWOCpiueimEbIkTTI5-132" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;After one last puzzle in a door, they both get out to see a large arid region and no signs of human life for kilometers&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="4610" width="200" height="100" as="geometry" />
+        <mxCell id="_RkWOCpiueimEbIkTTI5-132" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;After one last puzzle in a door, they both get out to see a large arid region and no signs of human life for kilometers, but the sun seems to be setting. They take off in the opposite direction hoping to reach the Atlantic Ocean at worst&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="4610" width="260" height="210" as="geometry" />
         </mxCell>
         <mxCell id="x8JGwaPrbHJTbHLdMTGF-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;They do one last puzzle. Reaching what appears to be a way out, Ian and Ennio rejoice at first, but Ian shoots Ennio as he opens the door. He says that they were a team as Ennio conscience drifts off. Ian throws him off the hangar to his death.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-2835" y="3060" width="528" height="154" as="geometry" />
@@ -842,6 +839,27 @@
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-133" value="Puzzle #" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2624.5" y="2950" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x8JGwaPrbHJTbHLdMTGF-84" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;KEY #7 - THE ARCHITECT&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="-1785.5" y="3240" width="160" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="_RkWOCpiueimEbIkTTI5-134" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio believes Ian is the Mastermind and that he is mad. Ian tells him in good faith about the secret hatch and the hangar door, and that they should try to escape in one of them. He is left behind&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-1896" y="3360" width="400" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="_RkWOCpiueimEbIkTTI5-135" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;KEY # - THE DREAM&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="973" y="5880" width="160" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="_RkWOCpiueimEbIkTTI5-136" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio and Norberto pry open both ways out and succeed, but the hangar has no energy to operate. They them help Tisa out and climb to the hatch door, reaching a dark field illuminated by moonlight. Norberto sees a light in the distance and helps Enniio carry Tisa to a farm.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-1896" y="3507" width="400" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="_RkWOCpiueimEbIkTTI5-137" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;The Farmer (woman) helps them&amp;nbsp; and they get some well earned rest. Norberto then reveals that he knew a man named Unne who was also a doctor, but was older and died in 2005. He tells of their friendship and their ambitions, and eventually Ennio surfaces memories of killing someone. Norberto thinks that Ian wasn&#39;t telling that truth, since he never saw anything like that in his line of work, and that a normal body wouldn&#39;t be able to withstand a personality for so longo&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-2020" y="3650" width="620" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_RkWOCpiueimEbIkTTI5-138" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio goes to the bathroom and looks at the mirror after taking a shower, noticing his hair changing color and texture, when he cleans more of the mirror, Tisa is there. He greets her and she screams. Norberto appears, lloks at them both and says &quot;Everything will look better soon...&quot;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-1892" y="3830" width="400" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_RkWOCpiueimEbIkTTI5-139" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;NORBERTO END #1 - THE LOOK&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-1772" y="4010" width="160" height="106" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
