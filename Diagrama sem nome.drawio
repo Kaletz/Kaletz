@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T14:56:14.092Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="3joeOwWPaEmG5nWdtziT" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-25T16:32:19.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="6nf3qk5ZwrEdsfbL5JM5" version="21.8.2" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="5702" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -326,7 +326,7 @@
           <mxGeometry x="1185" y="1910" width="160" height="106" as="geometry" />
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;PLUTO END - OUT OF THE SYSTEM&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="1590" y="2016" width="160" height="106" as="geometry" />
+          <mxGeometry x="1590" y="2157" width="160" height="106" as="geometry" />
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-21" value="Puzzle #" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1200" y="1530" width="130" height="80" as="geometry" />
@@ -559,7 +559,7 @@
           <mxGeometry x="-3500" y="1890" width="171" height="129" as="geometry" />
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-129" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Xis struggles with Ynes and accidently kills her by knocking her against the mirror in the bathroom&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="468" y="490" width="322" height="90" as="geometry" />
+          <mxGeometry x="468" y="565" width="322" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-130" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;XIS&amp;nbsp; END -&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="413" y="934" width="160" height="106" as="geometry" />
@@ -954,7 +954,7 @@
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBl8tMDWuWG-bwdyoQCI-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1360" y="3212" as="sourcePoint" />
-            <mxPoint x="-1360" y="3320" as="targetPoint" />
+            <mxPoint x="-1330" y="3320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-40" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
@@ -969,14 +969,17 @@
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-43" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio shoots Ynês panickly and finally realizes the extent of what was done. he cleverly thinks of a way to learn what he needs to.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-1552" y="3825" width="250" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="pBl8tMDWuWG-bwdyoQCI-44" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;He changes some files in The Confluence and activates it. he is then treated to a dream sequence where we learn what Unne has done - SEE EXCEL FILE&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-44" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;He changes some files in The Reconstruction and activates it. he is then treated to a dream sequence where we learn what Unne has done - SEE EXCEL FILE&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-1565" y="3995" width="250" height="165" as="geometry" />
         </mxCell>
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-45" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;KEY #7 - THE ONE&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-1525.5" y="4170" width="160" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="pBl8tMDWuWG-bwdyoQCI-46" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Unne wakes up but strangely is being hanged&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-46" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Unne wakes up but strangely is tied with his shirt on his hand. he pulls it, triggering the mechanism of the Erase Gun which is overhead. It shoots, erasing Unne and leaving the experiment to it&#39;s fate.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-1560" y="4276" width="250" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-47" value="Puzzle # - Much harder" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1410" y="1920" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
