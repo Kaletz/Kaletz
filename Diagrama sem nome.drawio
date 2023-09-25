@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T14:49:26.737Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="YR2UeOKDWNqqPApHA1y-" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-25T14:56:14.092Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="3joeOwWPaEmG5nWdtziT" version="21.8.2" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="5702" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -751,7 +751,7 @@
           <mxGeometry x="-2026.5" y="3695" width="400" height="127" as="geometry" />
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-137" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;The Farmer (woman) helps them&amp;nbsp; and they get some well earned rest. Norberto then reveals that he knew a man named Unne who was also a doctor, but was older and died in 2005. He tells of their friendship and their ambitions, and eventually Ennio surfaces memories of killing someone. Norberto thinks that Ian wasn&#39;t telling that truth, since he never saw anything like that in his line of work, and that a normal body wouldn&#39;t be able to withstand a personality for so longo&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-2150.5" y="3838" width="570.5" height="170" as="geometry" />
+          <mxGeometry x="-2150.5" y="3838" width="530.5" height="170" as="geometry" />
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-138" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio goes to the bathroom and looks at the mirror after taking a shower, noticing his hair changing color and texture, when he cleans more of the mirror, Tisa is there. He greets her and she screams. Norberto appears, lloks at them both and says &quot;Everything will look better soon...&quot;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-2022.5" y="4018" width="400" height="170" as="geometry" />
@@ -963,8 +963,20 @@
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio asks one last question before: what was this vision he had of waking up in the hotel ?&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-1580.5" y="3408.5" width="230" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="pBl8tMDWuWG-bwdyoQCI-42" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ynês then says that Ennio hasn&#39;t figured out yet that Unne was previously in his body, setting this experiment up so that he can achieve immortality, but guaranteeing that she has actually recalibrated so that a new version of Unne + Ennio would exists, one perfectly made for her&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-1560" y="3535" width="230" height="285" as="geometry" />
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-42" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ynês then says that Ennio hasn&#39;t figured out yet that Unne was previously in his body, setting this experiment up so that he can achieve immortality, but guaranteeing that she has actually recalibrated so that a new version of Unne + Ennio would exists, one perfectly made for her and without worries.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="3535" width="250" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-43" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio shoots Ynês panickly and finally realizes the extent of what was done. he cleverly thinks of a way to learn what he needs to.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-1552" y="3825" width="250" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-44" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;He changes some files in The Confluence and activates it. he is then treated to a dream sequence where we learn what Unne has done - SEE EXCEL FILE&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-1565" y="3995" width="250" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-45" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;KEY #7 - THE ONE&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-1525.5" y="4170" width="160" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-46" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Unne wakes up but strangely is being hanged&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="4276" width="250" height="165" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
