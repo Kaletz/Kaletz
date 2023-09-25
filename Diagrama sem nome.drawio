@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T17:51:28.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="vseRqzAm1NyU6R1i9py4" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-25T18:06:09.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="jz76BHFRBftl-qTSeXKK" version="21.8.2" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="5702" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5253" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1053,8 +1053,50 @@
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-78" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio arrives at the Control Room, seeing all the bodies of the prisoners, with Ynes bringing Ian&#39;s body back to prove her point to Ennio. Porund, however&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-4040" y="3650" width="320" height="156" as="geometry" />
         </mxCell>
-        <mxCell id="pBl8tMDWuWG-bwdyoQCI-79" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ian tries in vain to convince Norberto of some sort of plan, and begins to threaten the&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-79" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ian tries in vain to convince Porund of some sort of plan, and begins to threaten the others. Porund grows tired of him and puts him in a armlock while the monitor goes off.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-3565.5" y="2125" width="290" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-80" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;What Should we Ask ?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-3500" y="2270" width="133" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-81" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBl8tMDWuWG-bwdyoQCI-80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3510" y="2300" as="sourcePoint" />
+            <mxPoint x="-3730" y="2430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-3730" y="2300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-82" value="Is Ian involved with the Confinement ? - YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-3715" y="2193" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-83" value="Is Ian the Mastermind ? (as requested by Norberto) - NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-3250" y="2172.5" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-84" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBl8tMDWuWG-bwdyoQCI-80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3380" y="2260" as="sourcePoint" />
+            <mxPoint x="-3160" y="2470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-3160" y="2300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-86" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Punishment - Norberto Dies&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-3240" y="2480" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-87" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Immediatly following the NO, the gas is released, and they awake to find Porund and Ian missing, the monitor announcing her death. The next puzzle is about to begin, with the 3 remaining panicking&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-3315" y="2561" width="290" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-88" value="Puzzle #" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-3235.5" y="2704.5" width="131" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-89" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;The three are in a state of disarray, thinking that Ian might target them at any moment. The monitor them shows3SC (Three&#39;s Company), signaling only the other 3 remain. A door opens leading to a new area.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-3315" y="2792.5" width="290" height="157.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-90" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio, Tisa and Ynes question&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-3315" y="2963.25" width="290" height="157.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
