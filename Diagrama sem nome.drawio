@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T11:00:23.075Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="8ob9b1nv4EoXZ8ilhIjo" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-26T11:39:00.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="hnLVdshspWQhUJCNQ-Yn" version="21.8.2" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="5253" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -961,10 +961,10 @@
           <mxGeometry x="-1330" y="3310" width="290" height="190" as="geometry" />
         </mxCell>
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-51" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;KEY #7 - THE NINE&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="-1170" y="3741.25" width="160" height="106" as="geometry" />
+          <mxGeometry x="-1190" y="3906" width="160" height="106" as="geometry" />
         </mxCell>
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-52" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Unne End - Neun&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-1170" y="3858.75" width="160" height="106" as="geometry" />
+          <mxGeometry x="-1190" y="4023.5" width="160" height="106" as="geometry" />
         </mxCell>
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-54" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Pluto and Tisa seem to be missing and Xis and Porund are suspicious of each other, but more so of the other. The next puzzle begins&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1890" y="2720" width="328" height="140" as="geometry" />
@@ -1000,10 +1000,10 @@
           <mxGeometry x="1605" y="2040" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-65" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Worried about their possible personal issues, Ennio targets the most unhinged. However, after doing both of them one after the other, he is confronted by Ian and Tisa. Ennio is able to shoot Ian, but Tisa subdues him and gets the gun, shooting him shortly after.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-1840" y="1780" width="277.5" height="160" as="geometry" />
+          <mxGeometry x="-1840" y="1780" width="277.5" height="210" as="geometry" />
         </mxCell>
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-66" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;BAD END #&amp;nbsp; - THE AMBUSH&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-1787" y="1950" width="160" height="106" as="geometry" />
+          <mxGeometry x="-1769" y="1997" width="160" height="106" as="geometry" />
         </mxCell>
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-67" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Who do you shoot?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-2182" y="2690" width="133" height="60" as="geometry" />
@@ -1047,7 +1047,7 @@
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-75" value="Puzzle # - Automatically done" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-970" y="1790" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pBl8tMDWuWG-bwdyoQCI-76" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Still with the 9 left, they start putting together their relations loosely and pinpoint&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-76" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Still with the 9 left, they start putting together their relations loosely and pinpoint a connection to Doctor Unne,&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-1060" y="1880.5" width="360" height="165" as="geometry" />
         </mxCell>
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-77" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ynes begins telling the story of how after Ennio moved, she fell in love with a boy similar to him but which seemed to be mature beyond his age, and how unfortunately he had a terminal disease and the only way to get him well involves the Confinement. She also tells that the people who died are actually all comatose, and extremely fine and in a monitored state. Ennio agrees to climb down to see them.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -1176,8 +1176,11 @@
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-112" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Norberto dashes to ...&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-3710" y="3380" width="290" height="258.75" as="geometry" />
         </mxCell>
-        <mxCell id="9Lh4SG4SNK0U3Dqs8cMI-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Unne reenacts the Reconstruction once more, and the plan finally works&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="9Lh4SG4SNK0U3Dqs8cMI-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Unne reenacts the Reconstruction once more, and the plan finally works, and some future events are shown. Unne is able to put the blame on Ynês and Ian, with the others being taken as casualties of this crazy experiment.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-1270" y="3510" width="290" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="9Lh4SG4SNK0U3Dqs8cMI-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Unne reenacts the Reconstruction once more, and the plan finally works, and some future events are shown. Unne is able to put the blame on Ynês and Ian, with the others being taken as casualties of this crazy experiment.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-1260" y="3710" width="290" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
