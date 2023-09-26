@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T17:56:07.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="wHjk7pZ3HYxXunlkppZx" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-26T18:23:34.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="-pA6wDFGhXOLMhW1uU5O" version="21.8.2" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="5702" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -343,7 +343,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O-tpeVZjKQFRNbeTzZI2-62" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOCK #1 - THE RULES&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="O-tpeVZjKQFRNbeTzZI2-62" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOCK #1 - THE RULES (only appears after getting both halves)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="2487" y="452" width="202" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-74" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio tells the others that answers with no &#39;Yes&#39; or &#39;No&#39; are given a pass, which arouses suspicion on Ynês, as she confronts Ennio about it..&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -972,7 +972,7 @@
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-57" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Xis and Porund seem confused (as they are pacifist) but Rachel is quick to point the now readied gun at then both.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1890" y="3100" width="328" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="pBl8tMDWuWG-bwdyoQCI-58" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOCK #- THE LOVER&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-58" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;DOUBLE LOCK # - THE LOVER &amp;amp; THE NINE&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="2478" y="725" width="202" height="110" as="geometry" />
         </mxCell>
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-59" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio reveals the plan and Ynês part on it, which sounds ludicrous to the others at first.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -997,7 +997,7 @@
           <mxGeometry x="-1840" y="1780" width="277.5" height="210" as="geometry" />
         </mxCell>
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-66" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;BAD END #&amp;nbsp; - THE AMBUSH&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-1769" y="1997" width="160" height="106" as="geometry" />
+          <mxGeometry x="-1757.5" y="1990" width="160" height="106" as="geometry" />
         </mxCell>
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-67" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Who do you shoot?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-2182" y="2690" width="133" height="60" as="geometry" />
@@ -1020,7 +1020,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O-tpeVZjKQFRNbeTzZI2-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOCK #1 - THE RULES&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="O-tpeVZjKQFRNbeTzZI2-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOCK #1 - THE RULES (only appears after getting both halves)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-1700" y="460" width="202" height="110" as="geometry" />
         </mxCell>
         <mxCell id="O-tpeVZjKQFRNbeTzZI2-66" value="Is there a way for the 9 to survive ? - YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
@@ -1446,7 +1446,7 @@
           <mxGeometry x="1520" y="3360.25" width="328" height="114.75" as="geometry" />
         </mxCell>
         <mxCell id="9Lh4SG4SNK0U3Dqs8cMI-85" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOCK # - THE GIFT&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="2493" y="2677" width="231" height="110" as="geometry" />
+          <mxGeometry x="2505" y="2985" width="231" height="110" as="geometry" />
         </mxCell>
         <mxCell id="9Lh4SG4SNK0U3Dqs8cMI-86" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;They plead for help and Pluto explains their situation in a non suspicious manner. The farmer says that she was heaidng to the city, and she can drop them there. Relieved, the three hop in the back of the pickup truck.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1521" y="3490" width="328" height="114.75" as="geometry" />
@@ -1455,7 +1455,7 @@
           <mxGeometry x="1504.5" y="3638.75" width="328" height="171.25" as="geometry" />
         </mxCell>
         <mxCell id="9Lh4SG4SNK0U3Dqs8cMI-88" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio uses his gift once more to tell them that a farmer is not a long ways from there, and that they take this path to reach the city.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="2498" y="2797" width="240" height="260" as="geometry" />
+          <mxGeometry x="2510" y="3105" width="240" height="175" as="geometry" />
         </mxCell>
         <mxCell id="9Lh4SG4SNK0U3Dqs8cMI-89" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio tries to calm her down but she says that it&#39;s too late to stop now.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1890" y="3248" width="328" height="140" as="geometry" />
@@ -1506,7 +1506,7 @@
           <mxGeometry x="2192" y="4372" width="267" height="234" as="geometry" />
         </mxCell>
         <mxCell id="9Lh4SG4SNK0U3Dqs8cMI-103" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;THE END&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="2563" y="3157" width="160" height="106" as="geometry" />
+          <mxGeometry x="2671" y="3638.75" width="160" height="106" as="geometry" />
         </mxCell>
         <mxCell id="saw2zOBANRNCnoZvpXz_-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Before they can conclude further, their door is knocked by Norberto, saying that Rachel had disappeared and&amp;nbsp; he wants to go to Tisa and Pluto for help. They also come and look everywhere for Rachel, and Tisa ends up finding her with a knife wound to the chest in the bathroom stall, and no trace as to how this was done.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-377.5" y="4620" width="485" height="150" as="geometry" />
@@ -1545,7 +1545,7 @@
           <mxGeometry x="-1020" y="2193" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="saw2zOBANRNCnoZvpXz_-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio admits to knowing he is Unne but doesn&#39;t remember everything. Ian understands what he means and gives him the gist of what happened (besides what was told in in Norberto End) - SEE EXCEL FILE&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-1060" y="2310.5" width="360" height="137.5" as="geometry" />
+          <mxGeometry x="-1040" y="2310.5" width="340" height="137.5" as="geometry" />
         </mxCell>
         <mxCell id="saw2zOBANRNCnoZvpXz_-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio asks Tisa to help with Porund and to ignore the next prompt. He turns to Ynes and immediatly shoots her and then threatens Rachel and Pluto, explaining the situation&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-1303.5" y="2450" width="230" height="182.5" as="geometry" />
@@ -1555,6 +1555,57 @@
         </mxCell>
         <mxCell id="saw2zOBANRNCnoZvpXz_-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;With everyone&#39;s help, he opens the control room with an unconscious Ynês and then gets the unconscious members out of their pods and into the hangar, as they start to go to the top, including Ynes and Ian.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-1260" y="2863" width="230" height="206.25" as="geometry" />
+        </mxCell>
+        <mxCell id="saw2zOBANRNCnoZvpXz_-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;As they arrive at the top, they find one last puzzle, but in the middle of it, are gassed by a failsafe of Ynes, As he drifts off, Ennio laments how close he has got, and vows to use this info in the future&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-1325" y="3086.25" width="420" height="123.75" as="geometry" />
+        </mxCell>
+        <mxCell id="saw2zOBANRNCnoZvpXz_-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;BAD END #&amp;nbsp; - NOT SO EASY&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-970" y="3212" width="141" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="saw2zOBANRNCnoZvpXz_-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;KEY # - THE TRAP&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-854" y="3312" width="160" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="saw2zOBANRNCnoZvpXz_-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;DOUBLE LOCK # - THE TRAP &amp;amp; THE PAST&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2474" y="2632.5" width="231" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="saw2zOBANRNCnoZvpXz_-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio tells everyone of the Ynes failsafe and that one has to stay and /monitor everything in the control room. Ian offer himself to atone for what he has done, promising to stay there with Ynes and keep shooting her as long as necessary, which causes her to scream&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2469" y="2766.75" width="270" height="196.5" as="geometry" />
+        </mxCell>
+        <mxCell id="saw2zOBANRNCnoZvpXz_-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOCK # - THE LOSS&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2500" y="3295" width="231" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="saw2zOBANRNCnoZvpXz_-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;And for the last time...&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2540" y="3408.5" width="240" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="saw2zOBANRNCnoZvpXz_-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;IAN END #&amp;nbsp; - THE HOLD&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-710.5" y="2950" width="141" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="saw2zOBANRNCnoZvpXz_-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;KEY # - THE PAST&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="3071" width="160" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="saw2zOBANRNCnoZvpXz_-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ian reveals that he knows where the exits are and leverages that if Ennio doesn&#39;t reveal anything about his involvement in the Confinement. Ennio agrees&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="2457.5" width="340" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="saw2zOBANRNCnoZvpXz_-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ian frees Ennio and they both leave the bathroom and start shooting other players to knock them down fast enough as to not trigger the gas until only two remain. Surprisingly, it works.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="2577.5" width="340" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="saw2zOBANRNCnoZvpXz_-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;When the &quot;2OK&quot; prompt appears, the pair is able to leave the hatch as Ian continues on telling Ennio about Unne, which finally makes Ennio remember what exactly happened to him so many years ago - SEE EXCEL FILE&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="2693.75" width="490" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="saw2zOBANRNCnoZvpXz_-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Finally reaching the surface, they both leave to start off their new life, and put a blame on someone left down there. Ian tells Ennio to leave the past as is, and live his life towards the future as Ennio, for as long as he can.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-990" y="2817.5" width="490" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="saw2zOBANRNCnoZvpXz_-37" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;This and the previous questionarouses suspicion of Ennio, and the &quot;L8T&quot; (Late Tonight) prompt appears, offering a chance to vote off a suspect. Unfortunately, Ennio is immeadiatly pointed out by Tisa and Ian, and soon almost everyone else piles on, even with Ynes and Norberto&#39;s pleas, and he is voted off.&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-2827.5" y="765" width="410" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="saw2zOBANRNCnoZvpXz_-38" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Punishment - Ennio Dies&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-2690" y="930" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="saw2zOBANRNCnoZvpXz_-39" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;BAD END #&amp;nbsp; - THE SUSPECT&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-2710" y="1004" width="160" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="saw2zOBANRNCnoZvpXz_-40" value="Is the punishment final ? - YES (the comatose timing is enough to last the proposed time of the confinement as soon as one starts)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-2442" y="475" width="160" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
