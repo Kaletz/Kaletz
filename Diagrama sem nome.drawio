@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T12:39:01.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="YPNGTMgr0y35HF5BpHWb" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-26T12:59:59.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="2B9KyBRZ7tdnp3GeWWj2" version="21.8.2" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="5506" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -121,7 +121,7 @@
           <mxGeometry x="490" y="130" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;PORUND END -&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="20" y="2148" width="160" height="106" as="geometry" />
+          <mxGeometry x="-10" y="2858" width="160" height="106" as="geometry" />
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Punishment - Pluto dies&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-740" y="790" width="140" height="70" as="geometry" />
@@ -528,8 +528,8 @@
         <mxCell id="_RkWOCpiueimEbIkTTI5-129" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;The Monitor shows that there is more than one way to escape, but as the numbers reduce, it will be way easier. With the nine, it is much harder, but not impossible.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="300" y="1130" width="220" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="_RkWOCpiueimEbIkTTI5-130" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;XIS&amp;nbsp; END -&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="550" y="3732" width="160" height="106" as="geometry" />
+        <mxCell id="_RkWOCpiueimEbIkTTI5-130" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;XIS&amp;nbsp; END -&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="546.13" y="4100.5" width="160" height="106" as="geometry" />
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-131" value="Puzzle #" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1329" y="4256" width="130" height="80" as="geometry" />
@@ -1306,6 +1306,27 @@
         </mxCell>
         <mxCell id="9Lh4SG4SNK0U3Dqs8cMI-42" value="Puzzle #" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="551.5" y="3500" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9Lh4SG4SNK0U3Dqs8cMI-43" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;After doing the puzzle and exiting the room, they find themselves alone and without a way to open the doors or get answer from the other 4.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="456.5" y="3590" width="320" height="152.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9Lh4SG4SNK0U3Dqs8cMI-44" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Unanimously, Xis is chosen to die, and gives a warm smile to say that accidents happen and for them to escape this cruel fate.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1970" width="420" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="9Lh4SG4SNK0U3Dqs8cMI-45" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Punishment Xis Dies&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="2130" width="350" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9Lh4SG4SNK0U3Dqs8cMI-46" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;When they wake up, they find themselves immediately directed to a puzzle&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="15" y="2210" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="9Lh4SG4SNK0U3Dqs8cMI-47" value="Puzzle #" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="2360" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9Lh4SG4SNK0U3Dqs8cMI-48" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;The monitor shows L7N (Lucky Seven) - and a voice explains they have a chance to vote off one who they suspect.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry y="2463" width="260" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="9Lh4SG4SNK0U3Dqs8cMI-49" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;The monitor shows &quot;2OK&quot; &quot;Two of a Kind&quot;) and then shows the opening of a hatch overhead. Xis comments on how this might be a way to escape and if they climb out of it. She analyzes it a bit more and fit it deliberate to&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="450" y="3753.5" width="320" height="152.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
