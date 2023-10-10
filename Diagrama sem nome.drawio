@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T12:46:24.620Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="rZp3qKXUPGsWP-mGkBE8" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T13:30:29.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="SlCQs8y2D0Gwtwa2i3xp" version="22.0.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="6095" dy="2337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
           <mxGeometry x="-200" y="5660" width="160" height="106" as="geometry" />
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Punishment - Pluto dies&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-470" y="870" width="140" height="70" as="geometry" />
+          <mxGeometry x="-710" y="1004" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-22" value="Unsighted" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1450" y="580" width="250" height="35" as="geometry">
@@ -963,7 +963,7 @@
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-59" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio reveals the plan and Ynês part on it, which sounds ludicrous to the others at first.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="2450" y="845" width="240" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="pBl8tMDWuWG-bwdyoQCI-60" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOCK #- THE ARCHITECT &amp;amp; THE ARTIST&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-60" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;DOUBLE LOCK #- THE ARCHITECT &amp;amp; THE ARTIST&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="2469" y="999" width="202" height="110" as="geometry" />
         </mxCell>
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-61" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;He also uses what he knows about Ian as leverage to ge him on it. Then he talks about Xis&#39; design and how it was implemented in constructing this place by Ian.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -1014,8 +1014,8 @@
         <mxCell id="O-tpeVZjKQFRNbeTzZI2-67" value="Can we kill each other without a punishment ? - YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-1790" y="410" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pBl8tMDWuWG-bwdyoQCI-71" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Pluto seems a bit distraught by the events and wonders what would happen if there was a NO and if it was a trick, thinking about the phrasing.&amp;nbsp; Ian says that obviously some thing would went wrong and the two get on bad terms&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-820" y="540" width="280" height="180" as="geometry" />
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-71" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Pluto seems a bit distraught by the events and wonders what would happen if there was a NO and if it was a trick, thinking about the phrasing.&amp;nbsp; Ian says that obviously some thing would went wrong and the two get on bad terms. The Nine separate into three teams based on affinity&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-820" y="540" width="350" height="180" as="geometry" />
         </mxCell>
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-72" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Worried about their involvement in the Confinement, Ennio gets a meeting with them both, knowing that Xis will be confused anyway. Using some tricks while Ian is distracted by Xis, he shoots them both, then proceeds to hastily do the puzzle of the day&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-1507.5" y="1780" width="397.5" height="160" as="geometry" />
@@ -1559,7 +1559,7 @@
         <mxCell id="saw2zOBANRNCnoZvpXz_-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOCK # - THE LOSS&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="2500" y="3295" width="231" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="saw2zOBANRNCnoZvpXz_-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;And for the last time...&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="saw2zOBANRNCnoZvpXz_-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio asks Tisa to help him erase Unne once for all, using what she knows a last resort.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="2540" y="3408.5" width="240" height="175" as="geometry" />
         </mxCell>
         <mxCell id="saw2zOBANRNCnoZvpXz_-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;IAN END #&amp;nbsp; - THE HOLD&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -1593,13 +1593,13 @@
           <mxGeometry x="-2442" y="475" width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="saw2zOBANRNCnoZvpXz_-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;TISA END #&amp;nbsp; - THE HOLD&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-480.5" y="1368" width="141" height="106" as="geometry" />
+          <mxGeometry x="-473.5" y="1518" width="141" height="106" as="geometry" />
         </mxCell>
         <mxCell id="saw2zOBANRNCnoZvpXz_-42" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;KEY # - THE LOSS&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="-490" y="1489" width="160" height="106" as="geometry" />
+          <mxGeometry x="-483" y="1639" width="160" height="106" as="geometry" />
         </mxCell>
         <mxCell id="saw2zOBANRNCnoZvpXz_-43" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Tisa reveals that she feels guilty of developing a method to erase ones memories. An extreme method to solve heavy traumas, the efficiency was too high, and every event regarding&amp;nbsp; ???&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-600" y="1200" width="360" height="150" as="geometry" />
+          <mxGeometry x="-593" y="1350" width="360" height="150" as="geometry" />
         </mxCell>
         <mxCell id="saw2zOBANRNCnoZvpXz_-44" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio + Pluto + Tisa&lt;br&gt;Ynes + Porund +Norberto&lt;br&gt;Ian + Xis + Rachel&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-770" y="730" width="210" height="70" as="geometry" />
@@ -1671,7 +1671,13 @@
           <mxGeometry x="730" y="-90" width="282.5" height="125" as="geometry" />
         </mxCell>
         <mxCell id="QyOdjH0Gon2IO79tyH6B-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Pluto: seems extremely stressed and has some anger issues&lt;br&gt;Rachel: Wants to be left alone and seems uncomfortabletowards almost everyone&lt;br&gt;Xis: Dresses in a uncommon way and admires the look of the place&lt;br&gt;Porund: The most harmsless, maybe too harmless&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1132.75" y="-260" width="517.25" height="330" as="geometry" />
+          <mxGeometry x="1077.75" y="-180" width="462.25" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="QyOdjH0Gon2IO79tyH6B-11" value="Puzzle #" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-735" y="820" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QyOdjH0Gon2IO79tyH6B-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Pluto goes off telling that he refuses to play the puzzle. As such, he is punished&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="910" width="270" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
