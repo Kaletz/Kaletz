@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T17:37:03.196Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="Y10qerSff3rIZNbrP7sl" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T18:54:39.596Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="2KTc_6TEZH29CFPofNty" version="22.0.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="7354" dy="2103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -69,17 +69,17 @@
             <mxRectangle x="1327" y="1395" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_RkWOCpiueimEbIkTTI5-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio explains his choice of words: he wants to play the game alone, and the others should stay away from him&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-1450" y="630" width="260" height="110" as="geometry" />
+        <mxCell id="_RkWOCpiueimEbIkTTI5-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio explains his choice of words: he wants to play the game alone, and the others should stay away from him. He then shows them him doing the puzzle alone.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-1450" y="630" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-26" value="Puzzle # - Much harder" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-1390" y="760" width="130" height="80" as="geometry" />
+          <mxGeometry x="-1385" y="770" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Who should I kill ?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1372" y="1120" width="133" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio knows that he must kill so that he can output the most info from this timeline and reach the end the best way. He knows how to get the Erase Gun and will use it.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-1455" y="950" width="345" height="130" as="geometry" />
+          <mxGeometry x="-1462.5" y="985" width="345" height="130" as="geometry" />
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-30" value="" style="endArrow=classic;html=1;rounded=0;snapToPoint=1;orthogonal=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_RkWOCpiueimEbIkTTI5-27" target="pBl8tMDWuWG-bwdyoQCI-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -109,13 +109,13 @@
           <mxGeometry x="-1580.5" y="1290" width="215" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-36" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOCK # - THE GUN&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="-1426" y="860" width="202" height="70" as="geometry" />
+          <mxGeometry x="-1409.75" y="915" width="202" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-37" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOCK # - THE STRENGHT&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-1574" y="1200" width="202" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-38" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio also knows that he can&#39;t let the system stay on 7 or 8 , so he plans to get to 6, by killing two others&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-1587" y="1430" width="215" height="110" as="geometry" />
+          <mxGeometry x="-1587" y="1410" width="215" height="130" as="geometry" />
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-73" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ynes reprimands Ennio, showing him that he could ask a similar question and get a &#39;Yes&#39;. Just as the team is starting to get rowdy, a gas knows them out&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="2395" y="423" width="210" height="215" as="geometry" />
@@ -288,7 +288,7 @@
         <mxCell id="-gMSrIDQA9UIPFFdvpcl-6" value="Who is behind all this ? - The answer is not given and the next puzzle can be skipped" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="2440" y="-90" width="242" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="_RkWOCpiueimEbIkTTI5-77" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Being anxious of what he knows Ian can do, Ennio plans to ambush him, but is eventually cornered by Xis and Norberto, who were asked by him. The 3 question and tie Ennio and make him play by their hand. Ian, Norberto and Xis, now knows how to use the Erase Gun&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="_RkWOCpiueimEbIkTTI5-77" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Being anxious of what he knows Ian can do, Ennio plans to ambush him, but is eventually cornered by Xis and Porund, who were asked by him. The 3 question and tie Ennio and make him play by their hand. Ian, Norberto and Xis, now knows how to use the Erase Gun&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-1140" y="1307" width="360" height="150" as="geometry" />
         </mxCell>
         <mxCell id="_RkWOCpiueimEbIkTTI5-78" value="Hindsighted" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -734,7 +734,7 @@
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;DOUBLE LOCK # - THE ARCHITECT AND THE ARTIST&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-1474" y="1660" width="280" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="pBl8tMDWuWG-bwdyoQCI-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;DOUBLE LOCK # - HER CRIMES&lt;br&gt;AND HIS WORIES&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;DOUBLE LOCK # - THE CRIMES&lt;br&gt;AND THE WORRIES&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-1817" y="1660" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Who should I spare ?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -773,10 +773,10 @@
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;In the middle of the climb, Ennio confronts Ynês (he is on top) about her connections with the Confinement, and theatens to kick her down to her death. She begins to explain that she is in fact cooperating with the Mastermind, and has access to the main room. Ennio tells her to cut the crap and tell if he is really her childhood friend.&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-4735" y="4539.75" width="320" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="pBl8tMDWuWG-bwdyoQCI-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio goes ballistic and reveals everything he knows to Ynês, and they both agree to finally erase the other 4 and end this as now nobody can stop them&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ennio goes on and reveals everything he knows to Ynês, and they both agree to finally erase the other 4 and end this as now nobody can stop them&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-1625" y="2427.5" width="230" height="182.5" as="geometry" />
         </mxCell>
-        <mxCell id="pBl8tMDWuWG-bwdyoQCI-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;The four others ar swiftly eliminated while attending rations and Ynês rejoices the successful experiment, and shows Ennio the Main Control room, with the prerecordings and the rules ielaborated&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;The four others are swiftly eliminated while attending rations and Ynês rejoices the successful experiment, and shows Ennio the Main Control room, with the prerecordings and the rules ielaborated&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-1610" y="2610" width="230" height="182.5" as="geometry" />
         </mxCell>
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;She then explains that Unne had antecipated that mutiple versions of Ennio could communicate with each other to reach this state, and that eventually this state could be reached, and that she is glad to be the one experiencing it&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -830,7 +830,7 @@
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-45" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;KEY #7 - THE ONE&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-1751.5" y="4201.5" width="160" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="pBl8tMDWuWG-bwdyoQCI-46" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Unne wakes up but strangely is tied with his shirt on his hand. he pulls it, triggering the mechanism of the Erase Gun which is overhead. It shoots OVERLOADED, erasing Unne ,probably killing him, and leaving the experiment to it&#39;s fate.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-46" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Unne wakes up but strangely is tied with his shirt on his hand. he pulls it, triggering the mechanism of the Erase Gun which is overhead. It shoots, erasing Unne , and leaving the experiment to it&#39;s fate, and to how and who will wake up first&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-1786" y="4311.5" width="250" height="210" as="geometry" />
         </mxCell>
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-47" value="Puzzle # - Much harder" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" parent="1" vertex="1">
@@ -926,7 +926,7 @@
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-72" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Worried about their involvement in the Confinement, Ennio gets a meeting with them both, knowing that Xis will be confused anyway. Using some tricks while Ian is distracted by Xis, he shoots them both, then proceeds to hastily do the puzzle of the day&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-1507.5" y="1780" width="397.5" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="pBl8tMDWuWG-bwdyoQCI-73" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ian comes clean about the plan to everyone, and uses the Gun as leverage and has Norberto and Xis by his side. Ynês show some insecurity but seems to agree to held off the puzzles and places all suspicions on Ennio. The next puzzle also starts with hum still bound.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="pBl8tMDWuWG-bwdyoQCI-73" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ian comes clean about the plan to everyone, and uses the Gun as leverage and has Porund and Xis by his side. Ynês show some insecurity but seems to agree to held off the puzzles and places all suspicions on Ennio. The next puzzle also starts with hum still bound.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-1080" y="1610" width="330" height="165" as="geometry" />
         </mxCell>
         <mxCell id="pBl8tMDWuWG-bwdyoQCI-75" value="Puzzle # - Automatically done" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" parent="1" vertex="1">
@@ -1891,6 +1891,9 @@
         </mxCell>
         <mxCell id="VvDsNOo2XIfaNte46fXu-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Norberto gasps loudly, and suddenly is swiftly eliminated.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-3548" y="2390" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VvDsNOo2XIfaNte46fXu-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;The other find it extremely odd, and separate to investigate the rest of the place.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-1472" y="838" width="345" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
