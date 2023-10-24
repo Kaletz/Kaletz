@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T17:16:16.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="mP6ZwV_bowcwUBCgJh6D" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T17:28:36.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="sIVSQmNWbonLMJP24lt_" version="22.0.6" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="7529" dy="2207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1119,7 +1119,7 @@
         <mxCell id="9Lh4SG4SNK0U3Dqs8cMI-19" value="Is anyone here to be completely trusted ? - No (since everyone has memory issues)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1371.75" y="600" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="9Lh4SG4SNK0U3Dqs8cMI-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Pluto points out that if the answer is No, and one of them dies, them there is a way to accelerate their escape. But if the answer is Ynes, than the way shouldn&#39;t involve one of them getting killed.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="9Lh4SG4SNK0U3Dqs8cMI-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Pluto points out that if the answer is No, and one of them dies, them there is a way to accelerate their escape. But if the answer is Yes, than the way shouldn&#39;t involve one of them getting killed.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="749.75" y="830" width="370" height="120" as="geometry" />
         </mxCell>
         <mxCell id="9Lh4SG4SNK0U3Dqs8cMI-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Porund starts to elaborate further and the two seem to be on the same terms, but them the monitor shows a message congratulating them on a Paradox.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
